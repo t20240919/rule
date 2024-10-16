@@ -8,8 +8,4 @@ payload:
 #- DST-PORT,80
 #- SRC-PORT,7777
 - DOMAIN,store.steampowered.com,自定义
-- DOMAIN,egde.nelreports.net,自定义
-- DOMAIN,wukongxx.com,自定义
 - DOMAIN-SUFFIX,vivox.com,自定义
-- DOMAIN-SUFFIX,microsoft.com,自定义
-- DOMAIN-SUFFIX,windows.com,自定义
