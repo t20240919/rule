@@ -9,3 +9,4 @@ payload:
 #- SRC-PORT,7777
 - DOMAIN,store.steampowered.com,自定义
 - DOMAIN-SUFFIX,vivox.com,自定义
+- DOMAIN,1drv.ms,自定义
