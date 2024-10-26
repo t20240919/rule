@@ -9,3 +9,4 @@ payload:
 #- SRC-PORT,7777
 - DOMAIN,store.steampowered.com
 - DOMAIN-SUFFIX,vivox.com
+- DOMAIN-SUFFIX,steamcontent.com
